@@ -1,5 +1,5 @@
 # DB 파일
-db
+.DS_Store
 
 # properties files
 *.properties
